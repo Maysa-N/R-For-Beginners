@@ -16,7 +16,9 @@ of the next page, click the "DOWNLOAD" button under "RStudio Desktop"
 4. Click "Download" under "RStudio Desktop Open Source" to get the latest Mac version; save the .dmg file on
 your computer; double-click it to open; and then drag and drop it to your applications folder.
 
-# Now you are ready to take the first class and run the scripts
+# Now you are ready to take the first class and run the scripts.
+
+# new name 
 
 
 
